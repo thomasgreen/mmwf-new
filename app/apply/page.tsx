@@ -14,20 +14,20 @@ export default function ApplyPage() {
           <h2 className="text-2xl font-semibold mb-4">Application Information</h2>
 
           <p>
-            To apply, please complete the form below. Alternatively, you can download{" "}
-            <a
-              href="https://docs.google.com/document/d/16qYiTrjOO4qey0g9Q2OfU_PPr7pyRr2F/export?format=doc"
-              className="font-bold underline"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              this
-            </a>{" "}
-            application form and email a completed version to{" "}
-            <a href="mailto:m100pfb@yahoo.co.uk" className="font-bold underline">
-              m100pfb@yahoo.co.uk
-            </a>.
-          </p>
+  To apply, please complete the form below. Alternatively, you can download{" "}
+  <a
+    href="/mmwf_application.docx"
+    className="font-bold underline"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    this
+  </a>{" "}
+  application form and email a completed version to{" "}
+  <a href="mailto:m100pfb@yahoo.co.uk" className="font-bold underline">
+    m100pfb@yahoo.co.uk
+  </a>.
+</p>
         </div>
       </div>
 
