@@ -1,4 +1,3 @@
-import Head from "next/head";
 import Image from "next/image";
 import mmw from "@/public/madeleine-mary-walker.jpg"; // Move the image to the `public/` folder
 
