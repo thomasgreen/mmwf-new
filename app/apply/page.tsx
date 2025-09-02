@@ -33,7 +33,7 @@ export default function ApplyPage() {
 
       <form
         className="mx-auto md:w-2/3 md:flex md:flex-wrap md:justify-between"
-        action="https://formspree.io/f/m100pfb"
+        action="https://formspree.io/f/xkgvqnlz"
         method="POST"
         encType="multipart/form-data"
       >
